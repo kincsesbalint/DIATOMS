@@ -1,3 +1,5 @@
+#only for probing the thing
+
 def fast_workflow(SinkTag="anat_preproc", wf_name="tissue_segmentation"):
     """
     Borrowed from the PUMI project: https://github.com/spisakt/PUMI
